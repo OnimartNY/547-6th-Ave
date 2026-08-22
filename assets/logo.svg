@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" fill="none">
+  <ellipse cx="60" cy="18" rx="14" ry="10" fill="#FF6B35"/>
+  <ellipse cx="48" cy="16" rx="6" ry="9" fill="#FF6B35" transform="rotate(-20 48 16)"/>
+  <ellipse cx="72" cy="16" rx="6" ry="9" fill="#FF6B35" transform="rotate(20 72 16)"/>
+  <path d="M30 35 Q60 20 90 35 L85 75 Q60 88 35 75 Z" fill="#fff" stroke="#1a1a1a" stroke-width="2"/>
+  <circle cx="45" cy="42" r="3" fill="#7B2D8E" opacity="0.6"/>
+  <circle cx="75" cy="42" r="3" fill="#7B2D8E" opacity="0.6"/>
+  <text x="60" y="58" text-anchor="middle" font-family="Arial Rounded MT Bold, Arial, sans-serif" font-size="14" font-weight="bold" fill="#00A896">Onimart</text>
+  <rect x="42" y="62" width="36" height="14" rx="3" fill="#7B2D8E"/>
+  <circle cx="52" cy="69" r="4" fill="#FFB347"/>
+  <circle cx="68" cy="69" r="4" fill="#FFB347"/>
+  <path d="M48 72 Q60 78 72 72" stroke="#FFB347" stroke-width="1.5" fill="none"/>
+</svg>
